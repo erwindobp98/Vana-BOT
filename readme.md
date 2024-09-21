@@ -62,7 +62,7 @@ Start bot : [HERE](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=394382178)
 5. fill the `account.json` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)
 6. execute the main program 
    ```
-   START.bat
+   python vana.py
    ```
 # How to Get Data
    
